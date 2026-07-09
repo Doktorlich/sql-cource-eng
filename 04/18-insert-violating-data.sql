@@ -1,3 +1,2 @@
 INSERT INTO users (full_name, yearly_salary, current_status)
-VALUES
-    ('Mailk Maki',0,'unemployed');
+VALUES ('Samara Krack',-50, 'employed')
